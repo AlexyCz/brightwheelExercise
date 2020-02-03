@@ -14,6 +14,10 @@ Use your api testing client of choice (e.g. PostMan) and send a POST request to 
 
 ## Technology Used
 
+`Docker`
+
+Docker allows the ability to provide a more consistent deployment accross any machine that might want to run my API service
+
 `Flask`
 
 `Flask-Restful`
